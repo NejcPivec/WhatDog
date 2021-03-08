@@ -15,3 +15,9 @@ Mobile application for recognizing breed of a dog. It uses simple machine learni
 - Recognize dog breed
 
 ## ScreenShots:
+
+![Main Screen](https://github.com/NejcPivec/WhatDog/blob/main/screenshot/mainscreen.png)
+
+![Recognized Screen](https://github.com/NejcPivec/WhatDog/blob/main/screenshot/results.png)
+
+![My dogs Screen](https://github.com/NejcPivec/WhatDog/blob/main/screenshot/mydogs.png)
